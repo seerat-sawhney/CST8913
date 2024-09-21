@@ -7,7 +7,6 @@ This diagram represents the on-premise setup where the web server, database, and
 
 ![alt text](image.png)
 
-
 Description
 
 The React UI frontend is hosted on a server within the organization’s network, ensuring everything remains in-house. The Flask web server runs on a separate on-premises machine, while the PostgreSQL database is stored and managed locally. A router and firewall work together to control data flow and secure the entire network.
