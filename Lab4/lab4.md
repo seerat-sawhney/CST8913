@@ -20,6 +20,7 @@ And the SQLVM is replaced to Amazon RDS (Relational Database Service)
 
 ## Diagram
 
+![External Image](lab4.png)
 
 
 ## Overview of the Target Architecture
